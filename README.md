@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Axel Kusniak
+- 🌱 I’m currently learning C and Python 
+- 📫 You can reach at axel.kusniak@protonmail.com
